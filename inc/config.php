@@ -9,7 +9,7 @@
 // Environtment
 $envMapping = array(
     'apis.inewgen.com' => 'com',
-    'siamits.besaba.com' => 'com',
+    'inewgen.besaba.com' => 'com',
     'www.inewgen.com' => 'com',
     'webboard.inewgen.com' => 'com',
 
